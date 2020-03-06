@@ -1,0 +1,16 @@
+{
+  "songs": [
+    {
+      "path": "https://raw.githubusercontent.com/Ravinder-DevotionalSongs/DevotionalSongs/master/Dandaalayyaa.mp3",
+      "Title": "Dandaalayyaa"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/Ravinder-DevotionalSongs/DevotionalSongs/master/Hamsa_Naava.mp3",
+      "Title": "Hamsa_Naava"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/Ravinder-DevotionalSongs/DevotionalSongs/master/Kannaa_Nidurinchara.mp3",
+      "Title": "Kannaa_Nidurinchara"
+    }
+  ]
+}
